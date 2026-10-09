@@ -54,7 +54,7 @@ const html = `
   </head>
   <body>
     <section>
-      Boot Camp 2026
+      Hello from Render!
     </section>
   </body>
 </html>
